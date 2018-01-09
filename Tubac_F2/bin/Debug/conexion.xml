@@ -1,0 +1,16 @@
+<body>
+  <HANA>
+	<UserName>manager</UserName>
+	<Password>tubex1</Password>
+    <DbUserName>sa</DbUserName>
+    <DbPassword>12345</DbPassword>
+    <Server>DESKTOP-G67F328</Server>
+    <CompanyDB>2016Tubex_Productiva</CompanyDB>
+  </HANA>
+	<SQL>
+		<ip>DESKTOP-G67F328</ip>
+		<db>2016Tubex_Productiva</db>
+		<user>sa</user>
+		<password>12345</password>
+	</SQL>
+</body>
