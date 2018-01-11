@@ -35,3 +35,4 @@ c:\users\cristhiam\documents\visual studio 2015\Projects\Tubac_F2\Tubac_F2\bin\D
 c:\users\cristhiam\documents\visual studio 2015\Projects\Tubac_F2\Tubac_F2\bin\Debug\ShockwaveFlashObjects.dll
 c:\users\cristhiam\documents\visual studio 2015\Projects\Tubac_F2\Tubac_F2\obj\Debug\Tubac_F2.exe
 c:\users\cristhiam\documents\visual studio 2015\Projects\Tubac_F2\Tubac_F2\obj\Debug\Tubac_F2.pdb
+C:\Users\Cristhiam\Documents\Visual Studio 2015\Projects\Tubac_F2\Tubac_F2\obj\Debug\Tubac_F2.BatchsFase2.resources
